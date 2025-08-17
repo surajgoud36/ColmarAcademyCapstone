@@ -487,9 +487,7 @@ a:active {
   .last-content {
     display: none;
   }
-  .footer{
-    display: none;
-  }
+  
   .last-mobile {
     display: flex;
     flex-direction: column;
